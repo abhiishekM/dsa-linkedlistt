@@ -5,6 +5,9 @@ struct Node {
     int data;
 
 //trial only trial.hehe
+
+
+//hii
     struct Node* next;
 };
 
