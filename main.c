@@ -3,6 +3,8 @@
 
 struct Node {
     int data;
+
+//trial only trial.hehe
     struct Node* next;
 };
 
